@@ -1,0 +1,23 @@
+Pesquisa de Referencia
+
+######--Softwares--######
+SISPRO: https://www.sispro.com.br/segmentos/sispro-erp-cloud-manufatura/
+
+- Integra e gerencia todos os processos gerenciais e operacionais, desde as áreas Administrativo-Financeiras até a de Produção Industrial
+- Mostra o lucro de cada serviço realizado
+- Gerência de contratos
+- Controle de custos de mão de obra por Serviço/Cliente
+- Gerência de ordem de serviços
+- Automatização de processos
+
+ACEDATA:https://acedata.com.br/erp/industria-metalurgica/
+
+-Cálculo de custo e preço de venda
+-Controle de industrialização e remessas
+-Inspeção de qualidade
+-Cadastro de produtos com dados específicos do segmento
+-Ordens de serviço
+
+######--Hardware--######
+
+Relógio de ponto biométrico
