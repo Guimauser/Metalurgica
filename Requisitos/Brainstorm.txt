@@ -1,0 +1,12 @@
+Brainstorm
+
+-Sistema para cadastro de funcionarios (carga horaria e turnos)
+-Cadastro de peças
+-Sistema de ponto
+-Registro de cada setup realizado (duração, horário, funcionário responsável)
+-Estoque de materia prima
+-Estoque de peças
+-Registro de clientes
+-Gerador de nota fiscal
+-Calculador de refugo
+-Registro de envio (data, quantidade, cliente, horário e tipo de peça enviada)
